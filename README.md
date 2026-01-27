@@ -4,22 +4,20 @@
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-khateeb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ifhamkhateeb@gmail.com) 
-# Tech Stack:
-<table>
-	<tr>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png" alt="LaTeX" title="LaTeX"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></td>
-	</tr>
-	<tr>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></td>
-	</tr>
-</table>
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="48" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="48" title="Git"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="48" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="48" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="48" title="Python"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="48" title="C"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vim.png" width="48" title="Vim"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/latex.png" width="48" title="LaTeX"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/arduino.png" width="48" title="Arduino"/>
+</p>
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdullah-khateeb&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
