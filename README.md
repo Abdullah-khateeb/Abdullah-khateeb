@@ -48,4 +48,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=abdullah-khateeb&theme=codeSTACKr&hide_border=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=abdullah-khateeb&theme=codeSTACKr&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-khateeb&theme=codeSTACKr&hide_border=false&layout=compact)
-
