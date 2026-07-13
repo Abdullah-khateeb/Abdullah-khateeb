@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dark.svg" alt="Abdullah Khateeb Banner" width="100%">
+</p>
+
 # About Me:
  Hi, I’m a Computer Science and Engineering undergraduate with a strong foundation in Linux, Networking, and system operations.  <br>I focus on building practical, hands-on projects that demonstrate real-world problem solving and operational readiness.<br><br> Currently working on  <br>• Linux automation and system utility tools  <br>• Networking and production-support–oriented projects  <br>• Script-based solutions to improve system reliability and efficiency  <br><br> Currently learning  <br>• Linux system administration (processes, services, logs, cron, permissions)  <br>• Networking fundamentals (TCP/IP, DNS, DHCP, ports & protocols – CCNA level)  <br>• Basics of cybersecurity and DevSecOps practices  <br><br> Core skills  <br>• Linux (CLI, Bash scripting, system monitoring)  <br>• Networking fundamentals  <br>• Git & GitHub (version control, documentation)  <br>• Troubleshooting and log analysis  
 
